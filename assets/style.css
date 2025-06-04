@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    display: flex;
+}
+
+.cartao{
+    margin: 1rem 1 rem;
+    background-color: blueviolet;
+    height: max-content;
+}
